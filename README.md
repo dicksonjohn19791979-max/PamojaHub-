@@ -1,0 +1,2 @@
+# PamojaHub-
+PamojaHub is an inclusive social media platform that connects people of all abilities, including individuals with special needs. It provides accessible communication tools, community groups, and voice or text interaction, creating a supportive digital space where everyone can connect, share experiences, and empower one another.
